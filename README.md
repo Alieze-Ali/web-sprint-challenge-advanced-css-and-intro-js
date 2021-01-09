@@ -35,20 +35,21 @@ You are expected to be able to answer questions in these areas. Your responses c
 
 Follow these steps to set up your project:
 
-1. Fork the repo
-2. Clone your forked version of the repo
-3. cd into your repo and create a branch with your first and last name
+1. Fork the repo - OK
+2. Clone your forked version of the repo - OK
+3. cd into your repo and create a branch with your first and last name - OK
 NOTE: Tests will run for the JavaScript portion of this challenge only
 4. open the terminal in your vs code and type `npm install`
 5. next type `npm run test:watch` in your terminal
-6. Complete your work making regular commits, once you have all your tests passing and you are ready to submit your work please see canvas for instructions on how to submit
+6. Complete your work making regular commits, once you have all your tests passing and you are ready to submit your work please see canvas for instructions on how to submit.
+-made 1 commit after css update
 
 ### Task 2a:  Minimum Viable Product - Responsive Design
 
-*Before you jump in, take 10 minutes to review the code that has already been provided for you. Take time to see how the home page was built. During this time, [Review the provided design files](design/). You have been provided all content necessary in the [index.html file](index.html) and basic styling in the [index.css file](css/index.css).*
+*Before you jump in, take 10 minutes to review the code that has already been provided for you. Take time to see how the home page was built. During this time, [Review the provided design files](design/). You have been provided all content necessary in the [index.html file](index.html) and basic styling in the [index.css file](css/index.css).* - OK took 20min, but Ok
 
-* [ ] Add a viewport meta tag to the head of your index.html page.
-* [ ] Add responsive breakpoints to your code for 500px such that your styles match the [mobile design file](design/Mobile.png).
+* [ ] Add a viewport meta tag to the head of your index.html page. - OK
+* [ ] Add responsive breakpoints to your code for 500px such that your styles match the [mobile design file](design/Mobile.png). - DONE!
 
 ### Task 2b: Minimum Viable Product - JavaScript
 
